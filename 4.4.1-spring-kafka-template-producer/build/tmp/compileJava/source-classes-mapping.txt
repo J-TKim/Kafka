@@ -1,0 +1,5 @@
+com/example/KafkaTemplateConfiguration.java
+ com.example.KafkaTemplateConfiguration
+com/example/SpringProducerApplication.java
+ com.example.SpringProducerApplication
+ com.example.SpringProducerApplication$1

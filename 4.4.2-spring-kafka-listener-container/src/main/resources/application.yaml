@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    bootstrap-servers: 18.117.189.34:9092
+    consumer:
+      group-id: myGroup

@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    consumer:
+      bootstrap-servers: 18.117.189.34:9092
+    listener:
+      type: RECORD
